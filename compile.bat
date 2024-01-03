@@ -1,3 +1,3 @@
 REM compile.bat
-javac Sample.java
-java Sample
+javac HelloWorld.java
+java HelloWorld
